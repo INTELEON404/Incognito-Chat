@@ -1,4 +1,3 @@
-```markdown
 # Incognito Chat
 
 Incognito Chat is a secure, end-to-end encrypted chat application built in Python using sockets. Users can connect and communicate with each other anonymously while ensuring their messages are kept private.
